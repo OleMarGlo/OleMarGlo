@@ -1,10 +1,11 @@
 ## Hi there 👋
+I’m a student at NTNU with intrests in Rust, Go, C/C++, Python, React/Next.js, and more. I love building modular, efficient, and scalable systems, whether it’s a simulation, API, or somethign i recently discoverd and want to explore.
 
+I’m also passionate about hardware, API development, and system monitoring, and I enjoy exploring webdevelopment and creating CMS systems.
 <!--
 **OleMarGlo/OleMarGlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
